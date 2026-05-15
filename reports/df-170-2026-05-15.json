@@ -1,0 +1,16 @@
+{
+  "df": "DF-170",
+  "iso_timestamp": "2026-05-15T03:54:03.295051+00:00",
+  "k17_pre_action_verification": {
+    "env_tag": "mock",
+    "missing_anchors": [],
+    "ok": true
+  },
+  "ranking_per_marketplace": {},
+  "revenue_eur": 0.0,
+  "review_count": 0,
+  "sales_per_book": {},
+  "sales_total_units": 0,
+  "source": "mock",
+  "welle": "25"
+}
