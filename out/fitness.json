@@ -1,0 +1,8 @@
+{
+  "df": "df-170",
+  "ts": "2026-06-05T12:04:29.348953+00:00",
+  "ok": true,
+  "bytes": 2840,
+  "model": "qwen2.5:14b-instruct",
+  "duration_s": 25.0
+}
